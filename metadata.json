@@ -1,0 +1,7 @@
+{
+  "name": "Web Browser",
+  "description": "A secure web browser with built-in YouTube ad blocking and multi-country VPN location switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
