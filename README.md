@@ -6,6 +6,6 @@
 
   <p>The fastest path from prompt to production with Dev.</p>
 
-  <a href="https://goku.google.com/apps">Start building</a>
+  <a href="https://goku.com/apps">Start building</a>
 
 </div>
